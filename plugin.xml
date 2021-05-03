@@ -123,8 +123,8 @@
                 <source url="https://github.com/CocoaPods/Specs.git"/>
 			</config>
 			<pods>
-				<pod name="Firebase/Analytics" spec=">= 7.11.0" />
-				<pod name="Firebase/Messaging" spec=">= 7.11.0" />
+				<pod name="Firebase/Analytics" spec="~> 7.11.0" />
+				<pod name="Firebase/Messaging" spec="~> 7.11.0" />
 			</pods>
 		</podspec>
 	</platform>
